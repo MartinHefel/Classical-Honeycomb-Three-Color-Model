@@ -1,4 +1,4 @@
-This repository contains the code developed during the course of my masters's thesis:
+This repository contains the code developed during the course of my [masters's thesis](https://mediatum.ub.tum.de/1865856):
 ## Emergent $U(1)\times U(1)$ Gauge Theory in the Classical Honeycomb Three Color Model
 
 ### Thesis Information
